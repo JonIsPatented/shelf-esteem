@@ -1,0 +1,24 @@
+# Logs
+./shelf-esteem-frontend/logs
+./shelf-esteem-frontend/*.log
+./shelf-esteem-frontend/npm-debug.log*
+./shelf-esteem-frontend/yarn-debug.log*
+./shelf-esteem-frontend/yarn-error.log*
+./shelf-esteem-frontend/pnpm-debug.log*
+./shelf-esteem-frontend/lerna-debug.log*
+
+./shelf-esteem-frontend/node_modules
+./shelf-esteem-frontend/dist
+./shelf-esteem-frontend/dist-ssr
+./shelf-esteem-frontend/*.local
+
+# Editor directories and files
+./shelf-esteem-frontend/.vscode/*
+!./shelf-esteem-frontend/.vscode/extensions.json
+./shelf-esteem-frontend/.idea
+./shelf-esteem-frontend/.DS_Store
+./shelf-esteem-frontend/*.suo
+./shelf-esteem-frontend/*.ntvs*
+./shelf-esteem-frontend/*.njsproj
+./shelf-esteem-frontend/*.sln
+./shelf-esteem-frontend/*.sw?
