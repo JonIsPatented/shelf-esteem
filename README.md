@@ -1,2 +1,1 @@
-# Shelf Esteem
-## The Digital Library
+# Shelf Esteem: The Digital Library
